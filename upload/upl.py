@@ -53,17 +53,6 @@ def opensea_create_item(p_media, p_name, p_description, p_ethflg):
     judge_class_name(driver, "fzwDgL").click()
     time.sleep(5)
 
-    # human validation
-    human = judge_class_name_human_valid(driver, 'iujrQj')
-    if int(human) == 0:
-        while 1 > 0:
-            time.sleep(3)
-            print('等待人机认证，请手动认证，认证后，程序将继续执行')
-            human = judge_class_name_human_valid(driver, 'iujrQj')
-            if int(human) == 1:
-                time.sleep(20)
-                break
-
     print(p_name + " create success")
 
     # goto create item url
