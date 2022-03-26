@@ -1,6 +1,6 @@
-# MINT上链POLYGON指导教程
+# MINT批量上架Opensea指导教程
 
-该教程将指导如何将NFT通过mint部署到Polygon网络（ETH也可用）
+该教程将指导如何将NFT通过mint部署到Polygon网络（ETH也可用），批量上架到Opensea
 
 To find out more please visit:
 
