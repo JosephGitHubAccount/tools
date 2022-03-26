@@ -1,0 +1,39 @@
+{
+  "name": "joseph_nft_test #5",
+  "description": "test test",
+  "image": "ipfs://QmZzjUxQhAE4tLY34hNUgYeU6tsdTu72yG1GVP97ZqnMFp/5.png",
+  "dna": "57725ce10269f8ea35d58f4e08f9c14be6a07665",
+  "edition": 5,
+  "date": 1648285030934,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "High"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Low"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
