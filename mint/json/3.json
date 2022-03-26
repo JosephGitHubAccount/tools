@@ -2,9 +2,9 @@
   "name": "joseph_nft_test #3",
   "description": "test test",
   "image": "ipfs://QmZzjUxQhAE4tLY34hNUgYeU6tsdTu72yG1GVP97ZqnMFp/3.png",
-  "dna": "594219bfa83c650c4811a0db3ad0c2ec03f5bdf2",
+  "dna": "b12e94ae8a5e4166f953ca3100ecc90a3189c1e9",
   "edition": 3,
-  "date": 1648285030692,
+  "date": 1648285792128,
   "attributes": [
     {
       "trait_type": "Background",
@@ -32,8 +32,7 @@
     },
     {
       "trait_type": "Top lid",
-      "value": "Middle"
+      "value": "Low"
     }
-  ],
-  "compiler": "HashLips Art Engine"
+  ]
 }
