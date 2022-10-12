@@ -4,6 +4,12 @@
 
 
 
+
+
+- **AutoUnit.zip：** 可将Opensea的NFT批量挂单出售，非常稳定可靠，运行效率很高！！
+- **AutoOpensea_v5.5.zip**工具集合，包括了脚本工具自动上传NFT到Opensea，也包含了合约部署教程等多功能。
+- **synthesizer：**合成NFT工具
+
 注：
 
-AutoOpensea_v5.3.zip工具可以自动化批量上传NFT到Opensea上面，使用前请联系我购买CDKey！
+工具由本人亲自开发，维护，故需要有偿使用，工具使用需要CDKey，如需要请联系我！
